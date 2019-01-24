@@ -1,4 +1,4 @@
-* Tutoriols for jiyeon's job
+* Tutoriols for Jjiyeon's job
 
 | List                                |
 |-------------------------------------|
@@ -26,3 +26,5 @@
 |-------------------------------------|
 | Clean chemical weighting area       |
 |-------------------------------------|
+
+** 
