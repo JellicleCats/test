@@ -1,0 +1,23 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+* Yeast Extrac Peptone Dextrose growth (YEPD) liquid medium and plates
+
+
+ | Reagent       | Quantity (for 1L)| Final concentraion(W/v) |
+ |------------------------------------------------------------|
+ | Bacto peptone | 20g              | 2%                      |
+ |-------------------=----------------------------------------|
+ | Yeast extrac  | 10g              | 1%                      |
+ |------------------------------------------------------------|
+ | Dectrose      | 20g              | 2%                      |
+ |------------------------------------------------------------|
+ | H2O           | to 1L            | -                       |
+ |------------------------------------------------------------|
+
+ * If making plates, add 20g of agar to a final concentration of 2%
+ * Sterilize by autoclaving at 121C, liquid cycle 30min.
+
+
+
+** 
